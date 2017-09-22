@@ -97,3 +97,4 @@ param(
     END {
     }
 }
+Export-ModuleMember -Function New-DatabaseADGroupCollection
